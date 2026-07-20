@@ -1,4 +1,6 @@
 import mongoose from "mongoose";
+import dontenv from "dotenv";
+
 
 async function connectDB() {
 
